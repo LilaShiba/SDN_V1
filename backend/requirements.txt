@@ -14,6 +14,7 @@ jupyter_client
 jupyter_core
 langchain
 langchain_community
+langchain-community
 matplotlib
 matplotlib-inline
 nest-asyncio
