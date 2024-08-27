@@ -1,0 +1,6 @@
+2024-08-26 10:51:33,367 - DEBUG - matplotlib data path: /Users/kjams/.local/lib/python3.10/site-packages/matplotlib/mpl-data
+2024-08-26 10:51:33,375 - DEBUG - CONFIGDIR=/Users/kjams/.matplotlib
+2024-08-26 10:51:33,377 - DEBUG - interactive is False
+2024-08-26 10:51:33,377 - DEBUG - platform is darwin
+2024-08-26 10:51:33,440 - DEBUG - CACHEDIR=/Users/kjams/.matplotlib
+2024-08-26 10:51:33,442 - DEBUG - Using fontManager instance from /Users/kjams/.matplotlib/fontlist-v330.json
